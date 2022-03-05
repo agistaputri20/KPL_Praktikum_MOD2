@@ -1,0 +1,42 @@
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\praktikum modul 2\praktikum modul 2\bin\Debug\net6.0-windows\praktikum modul 2.exe
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\praktikum modul 2\praktikum modul 2\bin\Debug\net6.0-windows\praktikum modul 2.deps.json
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\praktikum modul 2\praktikum modul 2\bin\Debug\net6.0-windows\praktikum modul 2.runtimeconfig.json
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\praktikum modul 2\praktikum modul 2\bin\Debug\net6.0-windows\praktikum modul 2.dll
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\praktikum modul 2\praktikum modul 2\bin\Debug\net6.0-windows\praktikum modul 2.pdb
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\praktikum modul 2\praktikum modul 2\obj\Debug\net6.0-windows\praktikum modul 2.csproj.AssemblyReference.cache
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\praktikum modul 2\praktikum modul 2\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\praktikum modul 2\praktikum modul 2\obj\Debug\net6.0-windows\App.g.cs
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\praktikum modul 2\praktikum modul 2\obj\Debug\net6.0-windows\praktikum modul 2_MarkupCompile.cache
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\praktikum modul 2\praktikum modul 2\obj\Debug\net6.0-windows\praktikum modul 2_MarkupCompile.lref
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\praktikum modul 2\praktikum modul 2\obj\Debug\net6.0-windows\MainWindow.baml
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\praktikum modul 2\praktikum modul 2\obj\Debug\net6.0-windows\praktikum modul 2.g.resources
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\praktikum modul 2\praktikum modul 2\obj\Debug\net6.0-windows\praktikum modul 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\praktikum modul 2\praktikum modul 2\obj\Debug\net6.0-windows\praktikum modul 2.AssemblyInfoInputs.cache
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\praktikum modul 2\praktikum modul 2\obj\Debug\net6.0-windows\praktikum modul 2.AssemblyInfo.cs
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\praktikum modul 2\praktikum modul 2\obj\Debug\net6.0-windows\praktikum modul 2.csproj.CoreCompileInputs.cache
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\praktikum modul 2\praktikum modul 2\obj\Debug\net6.0-windows\praktikum modul 2.dll
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\praktikum modul 2\praktikum modul 2\obj\Debug\net6.0-windows\refint\praktikum modul 2.dll
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\praktikum modul 2\praktikum modul 2\obj\Debug\net6.0-windows\praktikum modul 2.pdb
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\praktikum modul 2\praktikum modul 2\obj\Debug\net6.0-windows\praktikum modul 2.genruntimeconfig.cache
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\praktikum modul 2\praktikum modul 2\obj\Debug\net6.0-windows\ref\praktikum modul 2.dll
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\KPL_Praktikum_MOD2\praktikum modul 2\praktikum modul 2\obj\Debug\net6.0-windows\praktikum modul 2.csproj.AssemblyReference.cache
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\KPL_Praktikum_MOD2\praktikum modul 2\praktikum modul 2\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\KPL_Praktikum_MOD2\praktikum modul 2\praktikum modul 2\obj\Debug\net6.0-windows\App.g.cs
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\KPL_Praktikum_MOD2\praktikum modul 2\praktikum modul 2\obj\Debug\net6.0-windows\praktikum modul 2_MarkupCompile.cache
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\KPL_Praktikum_MOD2\praktikum modul 2\praktikum modul 2\obj\Debug\net6.0-windows\praktikum modul 2_MarkupCompile.lref
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\KPL_Praktikum_MOD2\praktikum modul 2\praktikum modul 2\obj\Debug\net6.0-windows\praktikum modul 2.dll
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\KPL_Praktikum_MOD2\praktikum modul 2\praktikum modul 2\obj\Debug\net6.0-windows\refint\praktikum modul 2.dll
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\KPL_Praktikum_MOD2\praktikum modul 2\praktikum modul 2\obj\Debug\net6.0-windows\praktikum modul 2.pdb
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\KPL_Praktikum_MOD2\praktikum modul 2\praktikum modul 2\bin\Debug\net6.0-windows\praktikum modul 2.exe
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\KPL_Praktikum_MOD2\praktikum modul 2\praktikum modul 2\bin\Debug\net6.0-windows\praktikum modul 2.deps.json
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\KPL_Praktikum_MOD2\praktikum modul 2\praktikum modul 2\bin\Debug\net6.0-windows\praktikum modul 2.runtimeconfig.json
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\KPL_Praktikum_MOD2\praktikum modul 2\praktikum modul 2\bin\Debug\net6.0-windows\praktikum modul 2.dll
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\KPL_Praktikum_MOD2\praktikum modul 2\praktikum modul 2\bin\Debug\net6.0-windows\praktikum modul 2.pdb
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\KPL_Praktikum_MOD2\praktikum modul 2\praktikum modul 2\obj\Debug\net6.0-windows\MainWindow.baml
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\KPL_Praktikum_MOD2\praktikum modul 2\praktikum modul 2\obj\Debug\net6.0-windows\praktikum modul 2.g.resources
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\KPL_Praktikum_MOD2\praktikum modul 2\praktikum modul 2\obj\Debug\net6.0-windows\praktikum modul 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\KPL_Praktikum_MOD2\praktikum modul 2\praktikum modul 2\obj\Debug\net6.0-windows\praktikum modul 2.AssemblyInfoInputs.cache
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\KPL_Praktikum_MOD2\praktikum modul 2\praktikum modul 2\obj\Debug\net6.0-windows\praktikum modul 2.AssemblyInfo.cs
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\KPL_Praktikum_MOD2\praktikum modul 2\praktikum modul 2\obj\Debug\net6.0-windows\praktikum modul 2.csproj.CoreCompileInputs.cache
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\KPL_Praktikum_MOD2\praktikum modul 2\praktikum modul 2\obj\Debug\net6.0-windows\praktikum modul 2.genruntimeconfig.cache
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\KPL_Praktikum_MOD2\praktikum modul 2\praktikum modul 2\obj\Debug\net6.0-windows\ref\praktikum modul 2.dll
